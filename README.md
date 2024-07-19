@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # minesweeper
-a Minesweeper Game based on React js and integrated with TON Network for creation of new Airdrop based on this game.
-=======
+
+# a Minesweeper Game based on React js and integrated with TON Network for creation of new Airdrop based on this game.
+
 # Minesweeper React Typescript Game
 
 Legendary game written in React with Hooks and Typescript
@@ -9,9 +9,11 @@ Legendary game written in React with Hooks and Typescript
 ![Game demo](./docs/demo.gif)
 
 ## Demo
-See demo [here](https://minesweeper-react-typescript.vercel.app/)
+
+See demo [here](https://minesweeper-sage-psi.vercel.app/)
 
 ## How to play
+
 - Mines are scattered throughout a board, which is divided into fields.
 - Fields have three states: uncovered, covered and flagged.
 - A covered field is blank and clickable, while an uncovered field is exposed.
@@ -24,6 +26,7 @@ See demo [here](https://minesweeper-react-typescript.vercel.app/)
 - Flagging all the mined fields is not required.
 
 ## What’s Inside?
+
 - Project based on [create-react-app with TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 - `tsconfig.json` is in strict mode
 - No implicit and explicit `any`, only static types, only hardcore :)
@@ -70,8 +73,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Maintainers
-[Igor Sebelev](https://github.com/adlite)
+
+[Igor Sebelev](https://github.com/idevsoftwaregroup)
 
 ## License
+
 MIT
->>>>>>> master
