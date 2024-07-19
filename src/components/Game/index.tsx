@@ -113,7 +113,7 @@ export default function Game() {
               rel="noreferrer"
             >
               <img src="/assets/img/github.svg" alt="View source on GitHub" className={style.githubIcon} />
-              View source
+              View Source Codes
             </a>
           </div>
         </aside>
