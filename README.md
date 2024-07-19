@@ -74,7 +74,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Maintainers
 
-[Igor Sebelev](https://github.com/idevsoftwaregroup)
+[CTHunter](https://github.com/idevsoftwaregroup)
 
 ## License
 
