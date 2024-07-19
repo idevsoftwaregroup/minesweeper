@@ -115,6 +115,7 @@ export default function Game() {
               <img src="/assets/img/github.svg" alt="View source on GitHub" className={style.githubIcon} />
               View Source Codes
             </a>
+            <p>By: CTHUNTER</p>
           </div>
         </aside>
       </Panel>
